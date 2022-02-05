@@ -17,4 +17,4 @@ REST API's:
 <li>Queries</li>
 <br>
 <br>
-Link do deployment -->
+Link do deployment -->https://xaldrikx.github.io/API_Studies/
