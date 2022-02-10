@@ -1,6 +1,6 @@
 # API_Studies
 
-Um projeto simple o qual nao me preocupei com o estilo nem responsividade, a ideia por tras desse blog e apenas fixar os conceitos que aprendi sobre HTTP requests e RESTful API's.
+Projeto que fiz para treinar consumo de API, a ideia por tras desse blog é apenas fixar os conceitos que aprendi sobre HTTP requests e RESTful API's.
 <br>
 <br>
 HTTP requests:
