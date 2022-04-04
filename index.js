@@ -46,6 +46,5 @@ form.addEventListener("submit", function(e) {
             renderPosts()
             titleInput.value = ""
             bodyInput.value = ""
-            // form.reset()
         })
 })
